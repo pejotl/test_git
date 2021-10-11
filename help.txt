@@ -7,5 +7,5 @@ git add .  // adding everything
 git checkout -b new // new branch
 git checkout master // going back to master branch
 
-push 
-pull
+git push 
+git pull
