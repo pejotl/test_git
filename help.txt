@@ -1,0 +1,11 @@
+git init
+git add name.txt 
+git status
+git commit -m "message"
+git add .  // adding everything
+
+git checkout -b new // new branch
+git checkout master // going back to master branch
+
+push 
+pull
